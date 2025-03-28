@@ -146,13 +146,30 @@ What are the benefits of developing a detailed project schedule, and how can Gan
   Enhances quality control- helps ensure that quality standards are met without rushing through ther work. 
   Cost management- helps in forecasting and controlling project costs by aligning expenditures with project timelines and milestones. 
 
-  Gantt 
+  Gantt charts
+  Visual timeline representation- it displays tasks along a timeline making it easy to see begining and end dates, gantt helps project managers and teams understand the projects overall duration and deadlines.
+  Task breakdown and structuring- breaking down into smaller tasks, gantt ensures each taskis plotted with its duration inorder to fit into the larger schedule. 
+  Dependancy management- shows how tasks need to follow a process to flow,  gantt helps in sequencing tasks logically to avoid bottlenecks.
+  Resource allocation and workload management- it identifies overlapping tasks and potential resources conflicts, gantt ensures balanced workload distribution among the team.
+  Progress tracking- this is tracking task completion in real time via progress bars, gantt highlights key milestones or completetion.
+  Flexibility and adjustments- allowing for easy rescheduling when delays occur by adjusting task bars, gantt helps in what if scenario planning by testing different timelines.
+  Communication and stakeholder alignment- this provides a clear shareable visual for the team and its stakeholders, gantt reduces misunderstanding by making the schedule transparent.
+  Critical path identification- gantt ensures focus on tasks that directly impact the project deadline. 
+  
 
 What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
 
 How can clearly defining the problem help in developing a more effective software solution?
 
+  Focuses development efforts- teams risk building features no one needs without a clear problem statement. 
+  Aligns stakeholders- with a precise problem statement, it helps get better results for the specific problem, not general features.
+  Guides user centric design- software ensures to solve actual user pains, by conducting user interview to define actual problem and design features that directly address it resulting to higher adoption rates and user satisfaction. 
+  Enables measurable success criteria- by clearly defining the problem in detail results in success in quantifiable value.
+  Reduces development costs- solving wrong problems caused by lack of detailed information wastes time and money. 
+  Identifies constraints early- problems framed with constraints like budget, regulations or technical, they are captured early with clear problem identification. 
+  Facilitate prioritization- not all apects of a problem are equally critical, using problem statemen can identify the core issue to prioritize. 
+  
 
 How would you describe your software solution in a way that captures its essence without diving into technical details?
 
